@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elliot Janvier</h1>
 <h3 align="center">A student developer from Bordeaux, France</h3>
 
-- 🔭 I’m currently a fullstack developer intern at **Solidanim**
+- 🔭 I’m currently studying at **Epitech** and working as a fullstack web developer at **Solidanim**
 
 - 🌱 I’m currently learning **JS, VueJS and Flutter (+ Dart)**
 
