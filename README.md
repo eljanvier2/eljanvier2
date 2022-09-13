@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **Epitech** and working as a fullstack web developer at **Solidanim**
 
-- 🌱 I’m currently learning **JS, VueJS and Flutter (+ Dart)**
+- 🌱 I’m currently learning **JS, VueJS and Dart**
 
 - 📫 How to reach me **elliot.janvier@epitech.eu**
 
