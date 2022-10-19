@@ -12,7 +12,7 @@
 - 📫 How to reach me **elliot.janvier@epitech.eu**
 
 - 📄 Know about my experiences [https://linkedin.com/in/elliot-janvier](https://linkedin.com/in/elliot-janvier)
-</p>
+</p>&nbsp;
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
