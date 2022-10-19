@@ -1,4 +1,5 @@
 
+  
 <h1 align="center"><img src="https://media.giphy.com/media/OPTiqYKNKqzpkiaxPY/giphy.gif">&nbsp;
 <p>And Welcome to my GitHub profile!<p>
 </h1>
@@ -7,15 +8,16 @@
 
 - 🔭 I’m currently studying at **Epitech** and working as a fullstack web developer at **Solidanim**
 
-- 🌱 I’m currently learning **JS, VueJS and Dart**
+- 🌱 I’m currently learning **JS, VueJS and Flutter (Dart)**
 
-- 📫 How to reach me **elliot.janvier@epitech.eu**
+- 📫 Currently looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and I.
 
-- 📄 Know about my experiences [https://linkedin.com/in/elliot-janvier](https://linkedin.com/in/elliot-janvier)
 </p>&nbsp;
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="mailto:elliot.janvier@epitech.eu"><img align=center src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35">
+</a>
 <a href="https://linkedin.com/in/elliot-janvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliot janvier" height="30" width="40" /></a>
 </p>
 
