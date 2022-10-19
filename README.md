@@ -21,5 +21,5 @@
 
 ------------
 <img align=right src="https://spotify-github-profile.vercel.app/api/view?uid=elliotjanvier&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljanvier2&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eljanvier2&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="eljanvier2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljanvier2&hide_border=false)](https://git.io/streak-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eljanvier2&show_icons=true&locale=en&layout=compact" alt="eljanvier2" />
