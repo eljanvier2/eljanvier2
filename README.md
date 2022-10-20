@@ -1,8 +1,10 @@
 
   
-<h1 align="center"><img src="https://media.giphy.com/media/OPTiqYKNKqzpkiaxPY/giphy.gif">&nbsp;
-<p>And Welcome to my GitHub profile!<p>
-</h1>
+<h1 align=center display=inline>
+<p>And Welcome to my GitHub profile!</p>
+
+<img src="https://media.giphy.com/media/OPTiqYKNKqzpkiaxPY/giphy.gif">
+</h1> 
 <h3 align="center">A student developer from Bordeaux, France</h3>
 <p align="center">
 
@@ -29,3 +31,4 @@
 <p align=center><img align=right src="https://spotify-github-profile.vercel.app/api/view?uid=elliotjanvier&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" width="32%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eljanvier2&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eljanvier2&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="eljanvier2" width="50%"/></p>
+<p align=center><img src="https://profile-counter.glitch.me/eljanvier2/count.svg"></p>
