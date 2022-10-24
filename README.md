@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studying at **Epitech** and working as a fullstack web developer at **Solidanim**
 
-- 🌱 I’m currently learning **JS, VueJS and Flutter (Dart)**
+- 🌱 Right now, I'm learning **JS, VueJS and Flutter (Dart)**
 
-- 📫 Currently looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and I.
+- 📫 Looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and I.
 
 </p>&nbsp;
 
