@@ -12,7 +12,7 @@
 
 - 🌱 Right now, I'm learning **JS, VueJS and Flutter (Dart)**
 
-- 📫 Looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and I.
+- 📫 Looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui).
 
 </p>&nbsp;
 
