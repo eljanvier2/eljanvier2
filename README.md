@@ -5,7 +5,7 @@
 <h3 align="center">A student developer from Bordeaux, France</h3>
 <p align="center">
 
-- 🔭 I’m currently studying at **Epitech** and working as a fullstack web developer at **Solidanim**
+- 🔭 I’m currently studying at **Epitech**
 
 - 🌱 Right now, I'm learning **JS, VueJS and Flutter (Dart)**
 
