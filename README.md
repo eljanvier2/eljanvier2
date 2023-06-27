@@ -9,7 +9,7 @@
 
 - 🌱 Right now, I'm learning **C++ and Flutter (Dart)**
 
-- 📫 Looking for a third comrad eager to collaborate on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui).
+- 📫 Looking for a fourth collaborator eager to work on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and [@FaureAlexis](https://github.com/FaureAlexis).
 
 </p>&nbsp;
 
