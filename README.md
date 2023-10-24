@@ -1,6 +1,6 @@
 <h1 align=center display=inline>
 <img src="https://media.giphy.com/media/OPTiqYKNKqzpkiaxPY/giphy.gif">
-<p>And Welcome to my GitHub profile!</p>
+<p>Welcome to my GitHub profile!</p>
 </h1> 
 <h3 align="center">A student developer from Bordeaux, France</h3>
 <p align="center">
