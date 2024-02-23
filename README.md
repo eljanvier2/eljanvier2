@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **Epitech**
 
-- 🌱 Right now, I'm learning **C++ and Flutter (Dart)**
+- 🌱 Right now, I'm learning **React Native and Nextjs**
 
 - 📫 Looking for a fourth collaborator eager to work on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and [@FaureAlexis](https://github.com/FaureAlexis).
 
