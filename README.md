@@ -5,9 +5,9 @@
 <h3 align="center">A student developer from Bordeaux, France</h3>
 <p align="center">
 
-- 🔭 I’m currently studying at **Epitech**
+- 🔭 I’m currently studying on a semester abroad at **Concordia University**
 
-- 🌱 Right now, I'm learning **React Native and Nextjs**
+- 🌱 Right now, I'm learning **Kotlin and Java**
 
 - 📫 Looking for a fourth collaborator eager to work on a Flutter project with [@Lebonvieuxgui](https://github.com/Lebonvieuxgui) and [@FaureAlexis](https://github.com/FaureAlexis).
 
